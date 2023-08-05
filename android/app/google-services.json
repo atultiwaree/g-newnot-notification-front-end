@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960286575027",
+    "project_id": "newnot-8a082",
+    "storage_bucket": "newnot-8a082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960286575027:android:55dd6e6d948b6e3e20e3c6",
+        "android_client_info": {
+          "package_name": "com.newnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960286575027-u0leuqqe7n403p0635dcugpm6idmfc2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newnot",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "960286575027-ktl88fkvkoihf3qmlf5v3um31q7j9ulc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7c_yaC2nshxSRjvV_OXJv0ZukqiLn_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960286575027-ktl88fkvkoihf3qmlf5v3um31q7j9ulc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

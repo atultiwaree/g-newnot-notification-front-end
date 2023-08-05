@@ -1,0 +1,9 @@
+{
+    "channel": "message",
+     "content": {
+        "body": "Hi! Atul What's up ?",
+        "name": "atul",
+        "roomId": "123",
+        "title": "Advik sent you messge"
+    }
+}
